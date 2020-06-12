@@ -1,0 +1,21 @@
+
+ˆ
+java:S1130“"eRemove the declaration of thrown exception 'exceptions.InvalidArgument' which is a runtime exception.(ùŞÁœşÿÿÿÿ8 Üõƒ¤.
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Úêä”8ãŸÏƒ¤.
+‡
+java:S1130%"eRemove the declaration of thrown exception 'exceptions.InvalidArgument' which is a runtime exception.(Ì…×óÿÿÿÿÿ8î•òƒ¤.
+”
+java:S1319"rThe type of the "members" object should be an interface such as "List" rather than the implementation "ArrayList".(‘úÂşÿÿÿÿ8úƒÒ‡¤.
+:
+java:S1643©"Use a StringBuilder instead.(ú©œ÷8ãŸÏƒ¤.
+S
+java:S1128"6Remove this unused import 'javax.swing.plaf.SliderUI'.(’ê„å8ãŸÏƒ¤.
+‚
+java:S11300"eRemove the declaration of thrown exception 'exceptions.InvalidArgument' which is a runtime exception.(ğ±üÊ8Ïé†‹¤.
+‡
+java:S1130P"eRemove the declaration of thrown exception 'exceptions.InvalidArgument' which is a runtime exception.(²º˜íüÿÿÿÿ8‚œõƒ¤.
+a
+java:S1155€">Use isEmpty() to check whether the collection is empty or not.(­ê˜€ùÿÿÿÿ8ãŸÏƒ¤.
+Y
+java:S3655T"7Call "Optional#isPresent()" before accessing the value.(ôËÒ…üÿÿÿÿ8øÖÕƒ¤.

@@ -1,0 +1,10 @@
+
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(•È³¼üÿÿÿÿ8³ŠÔê¡.
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(¬çÑáøÿÿÿÿ8ÁŠë¡.
+9
+java:S1643B"Use a StringBuilder instead.(„£µ8ìª‰ë¡.
+”
+java:S1319"wThe type of the "reservations" object should be an interface such as "List" rather than the implementation "ArrayList".(éƒ¶ü8³ŠÔê¡.
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(Õß‚°8ş±ãê¡.
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(€òî«şÿÿÿÿ8ş±ãê¡.

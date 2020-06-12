@@ -1,0 +1,12 @@
+
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(°£°šúÿÿÿÿ8Ôé»ã¢.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(žšµ²úÿÿÿÿ8Ôé»ã¢.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ãÉ‹Üþÿÿÿÿ8Ôé»ã¢.
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(É³Š§8Ôé»ã¢.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(½Ð§ãúÿÿÿÿ8Ôé»ã¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÚô¢8Ôé»ã¢.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(Ì ûÒÿÿÿÿÿ8Ôé»ã¢.
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(ã‚Ç³ûÿÿÿÿ8Ôé»ã¢.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(»Ù¶…øÿÿÿÿ8Ôé»ã¢.
+Ž
+java:S1130	"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ8¥¿†ç¢.

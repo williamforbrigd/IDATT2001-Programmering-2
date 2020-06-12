@@ -1,0 +1,18 @@
+
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(¾à©øÿÿÿÿ8Æ’Ô‡¤.
+K
+java:S1481".Remove this unused "testDato1" local variable.(Øà›•8Æ’Ô‡¤.
+K
+java:S1128"0Remove this unused import 'members.BasicMember'.(¼Á…¸ıÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¾à©øÿÿÿÿ8Æ’Ô‡¤.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(¡«Ïíøÿÿÿÿ8Æ’Ô‡¤.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(¡«Ïíøÿÿÿÿ8Æ’Ô‡¤.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(¡«Ïíøÿÿÿÿ8Æ’Ô‡¤.
+X	java:S1253"<This block of commented-out lines of code should be removed.(º“ü‚8Æ’Ô‡¤.
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(¶•Öî8Æ’Ô‡¤.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(¡«Ïíøÿÿÿÿ8Æ’Ô‡¤.
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ìˆò£ıÿÿÿÿ8•½¸Š¤.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¶•Öî8Æ’Ô‡¤.
+Z
+java:S1854"=Remove this useless assignment to local variable "testDato1".(Øà›•8Æ’Ô‡¤.

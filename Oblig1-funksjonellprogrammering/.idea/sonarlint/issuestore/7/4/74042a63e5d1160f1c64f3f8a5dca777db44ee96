@@ -1,0 +1,41 @@
+
+9
+java:S1643{"Use a StringBuilder instead.(¡“òó8½ƒá¢.
+[	java:S106’"9Replace this use of System.out or System.err by a logger.(Û™³½şÿÿÿÿ8½ƒá¢.
+V	java:S106“"9Replace this use of System.out or System.err by a logger.(Çß¼˜8½ƒá¢.
+Q
+java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8ŞÙ—ß¢.
+B
+java:S1659"Declare "i" on a separate line.(»â½˜ùÿÿÿÿ8½ƒá¢.
+U	java:S106d"9Replace this use of System.out or System.err by a logger.(ƒµå¡8˜û‚á¢.
+Y	java:S125•"<This block of commented-out lines of code should be removed.(•Îà¶8½ƒá¢.
+]	java:S1258"<This block of commented-out lines of code should be removed.(Åôìÿÿÿÿÿ8‘ÃÙß¢.
+Q
+java:S3740Q"/Provide the parametrized type for this generic.(‚„²ˆøÿÿÿÿ8ç›á¢.
+Z	java:S106u"9Replace this use of System.out or System.err by a logger.(Ü¦ı†úÿÿÿÿ8½ƒá¢.
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(èĞ¥×øÿÿÿÿ8ç•ËŞ¢.
+B
+java:S1659"Declare "s" on a separate line.(»â½˜ùÿÿÿÿ8½ƒá¢.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(‰É†Ÿüÿÿÿÿ8½ƒá¢.
+Q
+java:S3740x"/Provide the parametrized type for this generic.(«°“ˆúÿÿÿÿ8½ƒá¢.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(¦†˜¿8½ƒá¢.
+^	java:S125"<This block of commented-out lines of code should be removed.(Š»‘Èúÿÿÿÿ8½ƒá¢.
+Q
+java:S3740_"/Provide the parametrized type for this generic.(âãöıÿÿÿÿ8†Ñ‹à¢.
+Y
+java:S3655c"7Call "Optional#isPresent()" before accessing the value.(äÕàıÿÿÿÿ8˜û‚á¢.
+Y	java:S125¥"<This block of commented-out lines of code should be removed.(èÉ¿8Àªèà¢.
+V	java:S106¤"9Replace this use of System.out or System.err by a logger.(ıû£½8º¹„á¢.
+]	java:S125h"<This block of commented-out lines of code should be removed.(¡»¢üùÿÿÿÿ8Â¥ƒá¢.
+]	java:S1256"<This block of commented-out lines of code should be removed.(²Ãóœüÿÿÿÿ8‡ûÙà¢.
+>
+java:S1170"!Make this final field static too.(“Šè8ôš¿ß¢.
+X	java:S125D"<This block of commented-out lines of code should be removed.(¢ôæØ8¶Èéà¢.
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(ÛŒÒ£8ê‚¿À¢.
+M
+java:S1168"+Return an empty collection instead of null.(§Î¬Ñøÿÿÿÿ8¤ÿ€À¢.
+V	java:S106£"9Replace this use of System.out or System.err by a logger.(¾â‡’8”±à¢.
+[	java:S106‘"9Replace this use of System.out or System.err by a logger.(—ç»ïüÿÿÿÿ8½ƒá¢.
+X	java:S125™"<This block of commented-out lines of code should be removed.(èˆİJ8½ƒá¢.

@@ -1,0 +1,15 @@
+
+’
+java:S1319T"pThe type of the "print" object should be an interface such as "List" rather than the implementation "ArrayList".(İÌªµüÿÿÿÿ8ÂÖûŞ£.
+I
+java:S1602?",Remove useless curly braces around statement(¬²€¾8Ó¼€á£.
+>
+java:S1643W"Use a StringBuilder instead.(Âµ¸Åûÿÿÿÿ8·ÒúŞ£.
+@
+java:S1148G"#Use a logger to log this exception.(Ç’Çê8ö…‡á£.
+N
+java:S1602)",Remove useless curly braces around statement(¹ÿ…öşÿÿÿÿ8ÕÀŞ£.
+N
+java:S16024",Remove useless curly braces around statement(æñ·‰ÿÿÿÿÿ8ÒŸÄŞ£.
+>
+java:S1643O"Use a StringBuilder instead.(Âµ¸Åûÿÿÿÿ8‘ÁßŞ£.

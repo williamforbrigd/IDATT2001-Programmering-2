@@ -1,0 +1,16 @@
+
+t
+java:S3776r"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÉùïËúÿÿÿÿ8ªäéé¢.
+`
+java:S1155Q">Use isEmpty() to check whether the collection is empty or not.(­ê˜€ùÿÿÿÿ8©â×ç¢.
+S
+java:S1128"6Remove this unused import 'javax.swing.plaf.SliderUI'.(’ê„å8ãÃé¢.
+:
+java:S1643–"Use a StringBuilder instead.(ú©œ÷8Œ˜ç¢.
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Úêä”8¸ß ç¢.
+Q
+java:S1066"/Merge this if statement with the enclosing one.(äõ¼Ôşÿÿÿÿ8»Ç²æ¢.
+Y	java:S125…"<This block of commented-out lines of code should be removed.(¼ÉÄÃ8ì¬¹é¢.
+o
+java:S3776]"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ö†²Í8úŒ€é¢.

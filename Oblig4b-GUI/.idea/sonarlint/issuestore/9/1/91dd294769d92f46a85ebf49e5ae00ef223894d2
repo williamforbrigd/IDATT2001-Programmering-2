@@ -1,0 +1,10 @@
+
+Z
+java:S1128"=Remove this unused import 'javafx.collections.FXCollections'.(´¶²Æ8”ç’¤.
+x
+java:S1450!"[Remove the "centerLayout" field and declare it as a local variable in the relevant methods.(ºÇØ¦8ƒ„ÛŒ¤.
+Y	java:S125¾"<This block of commented-out lines of code should be removed.(¥«ã8‹Û³¤.
+W
+java:S1128";Remove this unused import 'javafx.application.Application'.(í™şj8Í§ÉŒ¤.
+`
+java:S1128">Remove this unused import 'javafx.collections.ObservableList'.(ÄÜ€éüÿÿÿÿ8”ç’¤.

@@ -1,0 +1,16 @@
+
+K
+java:S1481".Remove this unused "testDato1" local variable.(Øà›•8¾„Õé¢.
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(¶•Öî8Ÿ¹Úé¢.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡«Ïíøÿÿÿÿ8ŸÌÍç¢.
+R
+java:S1128"0Remove this unused import 'members.BasicMember'.(¼Á…¸ıÿÿÿÿ8¡ò“ç¢.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¾à©øÿÿÿÿ8°ĞÌé¢.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(¡«Ïíøÿÿÿÿ8Àß¨é¢.
+Z
+java:S1854"=Remove this useless assignment to local variable "testDato1".(Øà›•8¾„Õé¢.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(¡«Ïíøÿÿÿÿ8Àß¨é¢.
+X	java:S125,"<This block of commented-out lines of code should be removed.(º“ü‚8ŞÚàé¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¶•Öî8°ĞÌé¢.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡«Ïíøÿÿÿÿ8¤ŸÎç¢.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(¾à©øÿÿÿÿ8Ÿ¹Úé¢.

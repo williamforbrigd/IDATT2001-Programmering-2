@@ -1,0 +1,27 @@
+
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(³Ä¹Œùÿÿÿÿ8Ñ¡á»¢.
+T	java:S106$"9Replace this use of System.out or System.err by a logger.(ıò‘48ªßÙ»¢.
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(‰ıÿ×8Ñ¡á»¢.
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(Ç‚¬Åùÿÿÿÿ8Ñ¡á»¢.
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(ÄÑİ­ùÿÿÿÿ8Ñ¡á»¢.
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(“Ş—ùÿÿÿÿÿ8©ùÜ»¢.
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(ü¿­¤8Ñ¡á»¢.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(…ê‚¡üÿÿÿÿ8áÿ§»¢.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ÑõĞÊüÿÿÿÿ8½Ú»¢.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ŒÊ¨Øøÿÿÿÿ8…¯Ü»¢.
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(ßÍşåÿÿÿÿÿ8Ñ¡á»¢.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(åˆŞ©ùÿÿÿÿ8÷ˆ‰º¢.
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(•€Ô¦üÿÿÿÿ8Ñ¡á»¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(°Ş¹Š8ÛĞ»¢.
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(º·‰šûÿÿÿÿ8Ñ¡á»¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(øÉÕª8’ùº¢.
+]	java:S125-"<This block of commented-out lines of code should be removed.(µ¤™‚ùÿÿÿÿ8íûä»¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(˜–‡8Ûİùº¢.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ëó¤éøÿÿÿÿ8òÛ¦»¢.
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(üªµÁ8’ùº¢.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ï´ŸÈøÿÿÿÿ8ªüº¢.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ºâĞúÿÿÿÿ8Ûİùº¢.

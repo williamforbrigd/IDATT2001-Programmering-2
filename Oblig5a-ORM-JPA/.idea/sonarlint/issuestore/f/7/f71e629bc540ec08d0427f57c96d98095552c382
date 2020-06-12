@@ -1,0 +1,8 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾Ü÷ö8´–ŽÖ¤.
+C
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8í…ëÕ¤.
+C
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8´–ŽÖ¤.
+C
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ŸóûÕ¤.

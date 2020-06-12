@@ -1,0 +1,11 @@
+
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ê‹Í…8˜Ùâİ¤.
+Š
+java:S1130"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(Ş¢Õà8å»šá¤.
+‰
+java:S11305"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(½¯–!8½È™á¤.
+
+java:S1130%"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(µó±şÿÿÿÿ8Á½õà¤.
+
+java:S1192"lDefine a constant instead of duplicating this literal "One of the fields cannot be null or invalid" 3 times.(³îûÀüÿÿÿÿ8ßšá¤.

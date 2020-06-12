@@ -1,0 +1,38 @@
+
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(‰šÉèşÿÿÿÿ8œçÓß¢.
+Y
+java:S3655;"7Call "Optional#isPresent()" before accessing the value.(äÕàıÿÿÿÿ8œçÓß¢.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(÷Ÿ‚Šşÿÿÿÿ8œçÓß¢.
+N
+java:S1612$",Replace this lambda with a method reference.(‘¤Ãûÿÿÿÿ8œçÓß¢.
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(‰šÉèşÿÿÿÿ8œçÓß¢.
+I
+java:S1612",Replace this lambda with a method reference.(Œ²–ó8‡Ôß¢.
+[
+java:S4973/"9Use the "equals" method if value comparison was intended.(ŠÔ»úÿÿÿÿ8‡Ôß¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¬×ã8œçÓß¢.
+I
+java:S1612",Replace this lambda with a method reference.(¬×ã8‡Ôß¢.
+r	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÔ»úÿÿÿÿ8œçÓß¢.
+T
+java:S3655+"7Call "Optional#isPresent()" before accessing the value.(Ëî¹”8‡Ôß¢.
+v
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(È²‚ï8œçÓß¢.
+Y
+java:S3655A"7Call "Optional#isPresent()" before accessing the value.(˜·¯üÿÿÿÿ8œçÓß¢.
+I
+java:S1612",Replace this lambda with a method reference.(Ç®ö£8‡Ôß¢.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¢“¨Éøÿÿÿÿ8œçÓß¢.
+I
+java:S2201A"'The return value of "get" must be used.(˜·¯üÿÿÿÿ8œçÓß¢.
+V
+java:S1854""9Remove this useless assignment to local variable "suits".(È²‚ï8œçÓß¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‡íÊî8œçÓß¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ç®ö£8œçÓß¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ËåÚò8œçÓß¢.
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(ä£ŒÚ8œçÓß¢.
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(©Åä·ûÿÿÿÿ8œçÓß¢.
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(‘Î•Ë8œçÓß¢.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(‘¤Ãûÿÿÿÿ8œçÓß¢.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(‡êÂœıÿÿÿÿ8œçÓß¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Œ²–ó8œçÓß¢.

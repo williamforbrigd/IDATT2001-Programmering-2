@@ -1,0 +1,9 @@
+
+R
+java:S1117%"7Rename "tid" which hides the field declared at line 12.(ñÙ¹ßşÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(—ˆ¬…şÿÿÿÿ
+o
+java:S12105"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(øå§
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(‚•ù˜
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(Ëê€¥
+k	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¸èøÿÿÿÿ

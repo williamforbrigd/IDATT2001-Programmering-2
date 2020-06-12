@@ -1,0 +1,17 @@
+
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(éáÉ¥üÿÿÿÿ8êŒõ¹¢.
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(†İÂ˜üÿÿÿÿ8•…à¹¢.
+S
+java:S1751"6Remove this "return" statement or make it conditional.(§¼Éç8øßµê¡.
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(ÓåäÈ8êŒõ¹¢.
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(º·‰šûÿÿÿÿ8ˆÑê¹¢.
+T	java:S106F"9Replace this use of System.out or System.err by a logger.(›ôm8êŒõ¹¢.
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(ü¿­¤8ÙŠâ¹¢.
+>
+java:S16431"Use a StringBuilder instead.(Êø‚Üÿÿÿÿÿ8‰™ì¡.
+T
+java:S3655*"7Call "Optional#isPresent()" before accessing the value.(Ë²¨Ú8ÍÅë¡.
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(‰ıÿ×8•…à¹¢.
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(•€Ô¦üÿÿÿÿ8ˆÑê¹¢.
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(ßÍşåÿÿÿÿÿ8Üš÷¹¢.

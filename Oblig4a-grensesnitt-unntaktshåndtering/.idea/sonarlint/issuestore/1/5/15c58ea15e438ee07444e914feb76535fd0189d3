@@ -1,0 +1,13 @@
+
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(·”¬øÿÿÿÿ8ƒò·á£.
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ö¦ëà£.
+]	java:S125%"<This block of commented-out lines of code should be removed.(È¶©­ÿÿÿÿÿ8ÜÎ²á£.
+Q
+java:S1128"4Remove this unused import 'exceptions.ZooException'.(İ¢Ş¼8°â‡á£.
+X	java:S125E"<This block of commented-out lines of code should be removed.(±úšÉ8áÛ·á£.
+N
+java:S1612<",Replace this lambda with a method reference.(·”¬øÿÿÿÿ8ƒò·á£.
+]	java:S125:"<This block of commented-out lines of code should be removed.(ëÒ€øÿÿÿÿ8Â¿ á£.
+]	java:S125*"<This block of commented-out lines of code should be removed.(¡«¥…ûÿÿÿÿ8±ëá£.
+W	java:S125?"<This block of commented-out lines of code should be removed.(áãån8×Äá£.

@@ -1,0 +1,12 @@
+
+C
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8öë¶Ö¤.
+C
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¦«¡Ö¤.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(çÕü¤8öë¶Ö¤.
+C
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8çú˜Ö¤.
+`
+java:S2259"@A "NullPointerException" could be thrown; "db" is nullable here.(½æõ€ÿÿÿÿÿ8öë¶Ö¤.
+C
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8å ¸Ö¤.

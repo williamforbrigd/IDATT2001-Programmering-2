@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26073596-6ae1-4981-872a-134a7776d361" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cG0d1kVvYWinVfn2I6C5vSWCkx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Oblig4b" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ZooClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zoo.ZooClient" />
+      <module name="Oblig4a" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zoo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ZooClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26073596-6ae1-4981-872a-134a7776d361" name="Default Changelist" comment="" />
+      <created>1590139707329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590139707329</updated>
+      <workItem from="1590139713525" duration="139000" />
+      <workItem from="1590140089597" duration="4658000" />
+      <workItem from="1590145597719" duration="159000" />
+      <workItem from="1590146041102" duration="1886000" />
+      <workItem from="1590217710995" duration="70000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1590140836177">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="453" y="93" key="#com.intellij.ide.util.MemberChooser/0.23.1280.709@0.23.1280.709" timestamp="1590140836177" />
+    <state x="415" y="277" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590140491017">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="415" y="277" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1280.709@0.23.1280.709" timestamp="1590140491017" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1590217715958">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590217715958" />
+    <state width="1218" height="199" key="GridCell.Tab.0.bottom" timestamp="1590149277424">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="199" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1590149277424" />
+    <state width="1218" height="199" key="GridCell.Tab.0.center" timestamp="1590149277423">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="199" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1590149277423" />
+    <state width="1218" height="199" key="GridCell.Tab.0.left" timestamp="1590149277422">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="199" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1590149277422" />
+    <state width="1218" height="199" key="GridCell.Tab.0.right" timestamp="1590149277423">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="199" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1590149277423" />
+    <state x="144" y="23" width="982" height="709" key="SettingsEditor" timestamp="1590146006005">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="144" y="23" width="982" height="709" key="SettingsEditor/0.23.1280.709@0.23.1280.709" timestamp="1590146006005" />
+    <state x="29" y="23" key="new project wizard" timestamp="1590149273047">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="29" y="23" key="new project wizard/0.23.1280.709@0.23.1280.709" timestamp="1590149273047" />
+  </component>
+</project>
